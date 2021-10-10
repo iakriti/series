@@ -1,0 +1,146 @@
+*{
+  background-color: rgb(26, 4, 24);
+  
+}
+body
+{
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/604/226/510/the-vampire-diaries-elena-gilbert-paul-wesley-ian-somerhalder-wallpaper-preview.jpg);
+  
+  
+  background-size: contain;
+  background-repeat: no-repeat;
+ 
+}
+.heading
+{
+   animation: flash;
+   animation-duration: 5s;
+    font-family: 'Nosifer', cursive;
+    color: silver;
+    text-shadow:1px 1px 2px silver , 0 0 1em  black, 0 0 0.2em black;
+   
+    font-size: 4rem;
+    text-align: center;
+   height: 10em;
+  background: transparent
+
+}
+.plot
+{
+  font-family: 'Permanent Marker', cursive;
+  color: silver;
+  text-align: center;
+    font-size: 4rem;
+}
+.p1
+{
+  
+  color: whitesmoke;
+  text-align: center;
+    font-size: 2rem;
+}
+.column img {
+ 
+ margin:10px auto 20px;
+ display: block;
+  width: 50% ;   
+   height: 50%;
+}
+
+.names
+{
+  animation: flash;
+   animation-duration: 10s;
+  font-family: 'Permanent Marker', cursive;
+  color:silver;
+  text-align: center;
+    font-size: 4rem;
+}
+
+.ian img
+{
+  float: right;
+  margin-bottom: 10px;
+  width: 50;
+  height: 50%;
+
+}
+.paul img
+{
+  float: left;
+  margin-bottom: 10px;
+  width: 50;
+  height: 50%;
+}
+.n
+{
+  animation:backInLeft;
+   animation-duration: 15s;
+  font-family: 'Permanent Marker', cursive;
+  color: silver;
+   float:left ;
+  margin:15px;
+  font-size: 4rem;
+}
+.nn
+{
+  animation: backInRight;
+   animation-duration: 15s;
+  font-family: 'Permanent Marker', cursive;
+  color: silver;
+   float: right ;
+   margin: 15px;
+  font-size: 4rem;
+}
+.nina img{
+  float: right;
+  margin-bottom: 10px;
+  width: 50;
+  height: 50%;
+}
+.e
+{
+  animation:backInLeft;
+   animation-duration: 20s;
+  font-family: 'Permanent Marker', cursive;
+  color: silver;
+   float:left ;
+  margin:15px;
+  font-size: 4rem;
+}
+.candice img
+{
+  float: left;
+  margin-bottom: 10px;
+  width: 50;
+  height: 50%;
+}
+.c
+{
+  animation: backInRight;
+   animation-duration: 20s;
+  font-family: 'Permanent Marker', cursive;
+  color: silver;
+   float: right ;
+   margin: 15px;
+  font-size: 4rem;
+}
+
+
+.kat img
+{
+  float: right;
+  margin-bottom: 10px;
+  width: 50%;
+  height: 50%;
+}
+.k
+{
+  animation:backInLeft;
+  animation-duration: 25s;
+  font-family: 'Permanent Marker', cursive;
+  color: silver;
+   float: left ;
+   margin: 15px;
+  font-size: 4rem;
+}
