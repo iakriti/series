@@ -50,7 +50,7 @@ body
 .names
 {
   animation: flash;
-   animation-duration: 10s;
+   animation-duration: 9s;
   font-family: 'Permanent Marker', cursive;
   color:silver;
   text-align: center;
